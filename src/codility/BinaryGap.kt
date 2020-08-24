@@ -1,3 +1,5 @@
+package codility
+
 fun main() {
 
     fun solution(N: Int): Int {
