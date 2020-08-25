@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codility/CyclicRotation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/FrogJump.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/PermMissingElem.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryGap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/BinaryGap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CyclicRotationKt">
+  <component name="RunManager" selected="Kotlin.PermMissingElemKt">
     <configuration name="BigIntegerFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BigIntegerFactorial" />
       <module name="algorithms" />
@@ -89,14 +89,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SherlockAndTheValidStringKtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="FrogJumpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SherlockAndTheValidStringKtKt" />
+      <option name="MAIN_CLASS_NAME" value="codility.FrogJumpKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermMissingElemKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.PermMissingElemKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,10 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PermMissingElemKt" />
+        <item itemvalue="Kotlin.FrogJumpKt" />
         <item itemvalue="Kotlin.CyclicRotationKt" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.BigIntegerFactorial" />
-        <item itemvalue="Kotlin.SherlockAndTheValidStringKtKt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,40 +170,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1598312974938">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1598392728636">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598312974938" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1598312974937">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598392728636" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1598392728634">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598312974937" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1598312974936">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598392728634" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1598392728634">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598312974936" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1598312974938">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598392728634" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1598392728635">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598312974938" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1598312974941">
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598392728635" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1598313465654">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598312974941" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1598312974940">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598313465654" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1598313465653">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598312974940" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1598312974939">
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598313465653" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1598313465652">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598312974939" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1598312974940">
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598313465652" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1598313465653">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598312974940" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598313465653" />
     <state x="219" y="193" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598310700078">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -227,16 +242,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="7" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/codility/CyclicRotation.kt</url>
-          <line>14</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/codility/CyclicRotation.kt</url>
-          <line>16</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
