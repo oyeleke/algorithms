@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/TapeEquillibrumFast.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codility/PermMissingElem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/PermMissingElem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593456369381" />
@@ -59,21 +62,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PermMissingElemKt">
-    <configuration name="BigIntegerFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BigIntegerFactorial" />
-      <module name="algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TapeEquillibrumFastKt">
     <configuration name="CyclicRotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
@@ -113,13 +102,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TapeEquilibriumSlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.TapeEquilibriumSlowKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TapeEquillibrumFastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.TapeEquillibrumFastKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TapeEquillibrumFastKt" />
+        <item itemvalue="Kotlin.TapeEquilibriumSlowKt" />
         <item itemvalue="Kotlin.PermMissingElemKt" />
         <item itemvalue="Kotlin.FrogJumpKt" />
         <item itemvalue="Kotlin.CyclicRotationKt" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.BigIntegerFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -171,38 +186,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1598418894735">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1598478332634">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598418894735" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1598418894734">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598478332634" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1598477401901" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1598478332633">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598418894734" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1598418894733">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598478332633" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1598477401899" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1598478332632">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598418894733" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1598418894734">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598478332632" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1598477401897" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1598478332633">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598418894734" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1598313465654">
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598478332633" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1598477401900" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1598478012160">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598313465654" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1598313465653">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598478012160" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1598478012159">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598313465653" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1598313465652">
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598478012159" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1598478012158">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598313465652" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1598313465653">
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598478012158" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1598478012160">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598313465653" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598478012160" />
     <state x="219" y="193" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598310700078">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -240,6 +259,21 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="7" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/TapeEquilibriumSlow.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/TapeEquilibriumSlow.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/TapeEquilibriumSlow.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
