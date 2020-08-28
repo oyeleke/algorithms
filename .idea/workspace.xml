@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codility/MaxCountersSemiGood.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/MissingInteger.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/FrogRiverOneCorrectSlow.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquillibrumFastKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquillibrumFastKt$main$1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +62,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TapeEquillibrumFastKt">
-    <configuration name="CyclicRotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.CyclicRotationKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.FrogRiverOneCorrectSlowKt">
     <configuration name="FrogJumpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
@@ -83,6 +71,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="codility.FrogJumpKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrogRiverOneCorrectSlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.FrogRiverOneCorrectSlowKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FrogRiverOneCorrectSlowKt" />
         <item itemvalue="Kotlin.TapeEquillibrumFastKt" />
         <item itemvalue="Kotlin.TapeEquilibriumSlowKt" />
         <item itemvalue="Kotlin.PermMissingElemKt" />
         <item itemvalue="Kotlin.FrogJumpKt" />
-        <item itemvalue="Kotlin.CyclicRotationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,25 +186,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1598512327086">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1598582524335">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598512327086" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598582524335" />
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1598477401901" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1598512327082">
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1598582524334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598512327082" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598582524334" />
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1598477401899" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1598512327081">
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1598582524333">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598512327081" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598582524333" />
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1598477401897" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1598512327085">
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1598582524334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598512327085" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598582524334" />
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1598477401900" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1598512327092">
       <screen x="0" y="0" width="1440" height="900" />
