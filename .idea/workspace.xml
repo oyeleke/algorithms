@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codility/MushroomPicker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/MinAvg2Slice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/MinAvg2SliceDoubleForLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codility/CountDiv.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/CountDiv.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MushroomPickerKt">
+  <component name="RunManager" selected="Kotlin.MinAvg2SliceKt">
     <configuration name="FrogRiverOneCorrectSlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
@@ -74,6 +77,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinAvg2SliceDoubleForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.MinAvg2SliceDoubleForLoopKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinAvg2SliceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.MinAvg2SliceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MushroomPickerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
@@ -82,32 +111,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="codility.MushroomPickerKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PermMissingElemKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.PermMissingElemKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TapeEquilibriumSlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.TapeEquilibriumSlowKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MinAvg2SliceKt" />
+        <item itemvalue="Kotlin.MinAvg2SliceDoubleForLoopKt" />
         <item itemvalue="Kotlin.MushroomPickerKt" />
         <item itemvalue="Kotlin.FrogRiverOneCorrectSlowKt" />
         <item itemvalue="Kotlin.TapeEquillibrumFastKt" />
-        <item itemvalue="Kotlin.TapeEquilibriumSlowKt" />
-        <item itemvalue="Kotlin.PermMissingElemKt" />
       </list>
     </recent_temporary>
   </component>
@@ -184,42 +187,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="255" key="GridCell.Tab.0.bottom" timestamp="1598693300996">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1599158235675">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598693300996" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1598477401901" />
-    <state width="1398" height="255" key="GridCell.Tab.0.center" timestamp="1598693300995">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599158235675" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1599119997290" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1599158235674">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598693300995" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1598477401899" />
-    <state width="1398" height="255" key="GridCell.Tab.0.left" timestamp="1598693300995">
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599158235674" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1599119997288" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1599158235673">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598693300995" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1598477401897" />
-    <state width="1398" height="255" key="GridCell.Tab.0.right" timestamp="1598693300996">
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599158235673" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1599119997286" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1599158235674">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598693300996" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1598477401900" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1598512327092">
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599158235674" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1599119997289" />
+    <state width="1398" height="324" key="GridCell.Tab.1.bottom" timestamp="1599157903945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598512327092" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1598512327088">
+    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599157903945" />
+    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1599119997112" />
+    <state width="1398" height="324" key="GridCell.Tab.1.center" timestamp="1599157903944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598512327088" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1598512327087">
+    <state width="1398" height="324" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599157903944" />
+    <state width="1398" height="324" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1599119997110" />
+    <state width="1398" height="324" key="GridCell.Tab.1.left" timestamp="1599157903943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598512327087" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1598512327089">
+    <state width="1398" height="324" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599157903943" />
+    <state width="1398" height="324" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1599119997109" />
+    <state width="1398" height="324" key="GridCell.Tab.1.right" timestamp="1599157903945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598512327088" />
+    <state width="1398" height="324" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599157903945" />
+    <state width="1398" height="324" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1599119997111" />
     <state x="219" y="193" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598310700078">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
