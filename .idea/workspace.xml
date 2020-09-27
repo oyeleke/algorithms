@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codility/Distinct.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/MaxProductOfThree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/Triangle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/Fish.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/NumberOfDiscInterceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/StoneWall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/StoneWall.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/GenomicRangeQuery2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/GenomicRangeQuery2Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TriangleKt">
+  <component name="RunManager" selected="Kotlin.StoneWallKt">
     <configuration name="DistinctKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
@@ -78,40 +80,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenomicRangeQuery2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="FishKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.GenomicRangeQuery2Kt" />
+      <option name="MAIN_CLASS_NAME" value="codility.FishKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAvg2SliceDoubleForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOfDiscInterceptionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.MinAvg2SliceDoubleForLoopKt" />
+      <option name="MAIN_CLASS_NAME" value="codility.NumberOfDiscInterceptionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAvg2SliceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="StoneWallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.MinAvg2SliceKt" />
+      <option name="MAIN_CLASS_NAME" value="codility.StoneWallKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StoneWallKt" />
+        <item itemvalue="Kotlin.FishKt" />
+        <item itemvalue="Kotlin.NumberOfDiscInterceptionsKt" />
         <item itemvalue="Kotlin.TriangleKt" />
         <item itemvalue="Kotlin.DistinctKt" />
-        <item itemvalue="Kotlin.GenomicRangeQuery2Kt" />
-        <item itemvalue="Kotlin.MinAvg2SliceKt" />
-        <item itemvalue="Kotlin.MinAvg2SliceDoubleForLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -188,50 +190,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="324" key="GridCell.Tab.0.bottom" timestamp="1600908468714">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1601228280642">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600908468714" />
-    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1599119997290" />
-    <state width="1398" height="324" key="GridCell.Tab.0.center" timestamp="1600908468709">
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601228280642" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601192249058" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1601228280641">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600908468709" />
-    <state width="1398" height="324" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1599119997288" />
-    <state width="1398" height="324" key="GridCell.Tab.0.left" timestamp="1600908468708">
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601228280641" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1601192249050" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1601228280640">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600908468708" />
-    <state width="1398" height="324" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1599119997286" />
-    <state width="1398" height="324" key="GridCell.Tab.0.right" timestamp="1600908468710">
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601228280640" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1601192249048" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1601228280641">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600908468710" />
-    <state width="1398" height="324" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1599119997289" />
-    <state width="1398" height="324" key="GridCell.Tab.1.bottom" timestamp="1600908484736">
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601228280641" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1601192249057" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1601221630728">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600908484736" />
-    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1599119997112" />
-    <state width="1398" height="324" key="GridCell.Tab.1.center" timestamp="1600908484735">
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601221630728" />
+    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601192249063" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1601221630726">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600908484735" />
-    <state width="1398" height="324" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1599119997110" />
-    <state width="1398" height="324" key="GridCell.Tab.1.left" timestamp="1600908484734">
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601221630726" />
+    <state width="1398" height="324" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1601192249061" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1601221630726">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600908484734" />
-    <state width="1398" height="324" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1599119997109" />
-    <state width="1398" height="324" key="GridCell.Tab.1.right" timestamp="1600908484735">
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601221630726" />
+    <state width="1398" height="324" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1601192249060" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1601221630727">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="324" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600908484735" />
-    <state width="1398" height="324" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1599119997111" />
-    <state x="168" y="261" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599721909198">
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601221630727" />
+    <state width="1398" height="324" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1601192249062" />
+    <state x="168" y="261" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601198434358">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="261" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1599721909198" />
+    <state x="168" y="261" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1601198434358" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601204327778">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601204327778" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -320,6 +326,126 @@
           <url>file://$PROJECT_DIR$/src/codility/Triangle.kt</url>
           <line>24</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Triangle.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/NumberOfDiscInterceptions.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/NumberOfDiscInterceptions.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/NumberOfDiscInterceptions.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>55</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>49</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>71</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>77</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>67</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>65</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>86</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>64</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>63</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>75</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/Fish.kt</url>
+          <line>74</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/codility/StoneWall.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
