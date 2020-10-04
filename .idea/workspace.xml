@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EquiLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/Equileader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/MaximalSlice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/MaxProfit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MaximalSliceKt">
+  <component name="RunManager" selected="Kotlin.MaxProfitKt">
     <configuration name="FishKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="VM_PARAMETERS" />
@@ -71,6 +69,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="codility.FishKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codility.MaxProfitKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.TriangleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MaxProfitKt" />
         <item itemvalue="Kotlin.MaximalSliceKt" />
         <item itemvalue="Kotlin.StoneWallKt" />
         <item itemvalue="Kotlin.FishKt" />
         <item itemvalue="Kotlin.NumberOfDiscInterceptionsKt" />
-        <item itemvalue="Kotlin.TriangleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -190,45 +188,45 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601539518433" />
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1601557929337">
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom" timestamp="1601563656438">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601557929337" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601563656438" />
     <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601192249058" />
-    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1601557929336">
+    <state width="1398" height="297" key="GridCell.Tab.0.center" timestamp="1601563656437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601557929336" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601563656437" />
     <state width="1398" height="324" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1601192249050" />
-    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1601557929336">
+    <state width="1398" height="297" key="GridCell.Tab.0.left" timestamp="1601563656437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601557929336" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601563656437" />
     <state width="1398" height="324" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1601192249048" />
-    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1601557929337">
+    <state width="1398" height="297" key="GridCell.Tab.0.right" timestamp="1601563656438">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="260" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601557929337" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601563656438" />
     <state width="1398" height="324" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1601192249057" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1601555808143">
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1601563656440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601555808143" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601563656440" />
     <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601192249063" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1601555808141">
+    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1601563656439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601555808141" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601563656439" />
     <state width="1398" height="324" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1601192249061" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1601555808140">
+    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1601563656439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601555808140" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601563656439" />
     <state width="1398" height="324" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1601192249060" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1601555808142">
+    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1601563656440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601555808142" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601563656440" />
     <state width="1398" height="324" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1601192249062" />
     <state x="168" y="261" width="1001" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601198434358">
       <screen x="0" y="0" width="1440" height="900" />
