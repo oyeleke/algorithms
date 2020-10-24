@@ -1,5 +1,7 @@
 package educative.sorting_and_searching;
 
+
+
 public class Merge {
 
     public static void merge(int[] arr, int left, int mid, int right) {
@@ -8,7 +10,6 @@ public class Merge {
 
         int[] leftArr = new int [leftArrSize];
         int[] rightArr = new int[rightArrSize];
-
         if (leftArrSize >= 0) System.arraycopy(arr, left, leftArr, 0, leftArrSize);
         if (rightArrSize >= 0) System.arraycopy(arr, mid + 1, rightArr, 0, rightArrSize);
 
