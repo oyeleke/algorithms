@@ -1,5 +1,7 @@
 package educative.sorting_and_searching;
 
+import org.jetbrains.annotations.NotNull;
+
 public class Helper {
 
     public static int findMin(int []a, int start, int end){
@@ -12,6 +14,12 @@ public class Helper {
             }
         }
         return mInd;
+    }
+
+    static void swap(int @NotNull [] array, int i, int j) {
+        int temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
     }
 
     static void printArray(int[] arr, int arrSize) {
