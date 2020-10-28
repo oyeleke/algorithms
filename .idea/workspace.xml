@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/CheckSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Helper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Helper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +65,13 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="Memoize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.dynamic_programming.Memoize" />
+  <component name="RunManager" selected="Application.CheckSum">
+    <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.CheckSum" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="educative.dynamic_programming.*" />
+          <option name="PATTERN" value="educative.sorting_and_searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.Search" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="educative.sorting_and_searching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.Sorting" />
       <module name="algorithms" />
@@ -121,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingCoinsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codility.ReversingCoinsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckSum" />
+        <item itemvalue="Application.Search" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Merge" />
         <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.Memoize" />
-        <item itemvalue="Kotlin.ReversingCoinsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -196,25 +193,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601539518433" />
-    <state width="1398" height="255" key="GridCell.Tab.0.bottom" timestamp="1603613126908">
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom" timestamp="1603846900864">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603613126908" />
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603846900864" />
     <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1602311841025" />
-    <state width="1398" height="255" key="GridCell.Tab.0.center" timestamp="1603613126904">
+    <state width="1398" height="255" key="GridCell.Tab.0.center" timestamp="1603846900861">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603613126904" />
+    <state width="1398" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603846900861" />
     <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1602311841024" />
-    <state width="1398" height="255" key="GridCell.Tab.0.left" timestamp="1603613126902">
+    <state width="1398" height="255" key="GridCell.Tab.0.left" timestamp="1603846900860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603613126902" />
+    <state width="1398" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603846900860" />
     <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1602311841023" />
-    <state width="1398" height="255" key="GridCell.Tab.0.right" timestamp="1603613126907">
+    <state width="1398" height="255" key="GridCell.Tab.0.right" timestamp="1603846900862">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603613126907" />
+    <state width="1398" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603846900862" />
     <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1602311841024" />
     <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1601563656440">
       <screen x="0" y="0" width="1440" height="900" />
