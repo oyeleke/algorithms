@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/CheckSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/SearchRotatedArraySlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/SearchingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/CheckSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/CheckSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/CheckSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/CheckSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckSum">
+  <component name="RunManager" selected="Application.SearchArray">
     <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.CheckSum" />
       <module name="algorithms" />
@@ -118,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.Sorting" />
+    <configuration name="SearchArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.SearchArray" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchArray" />
         <item itemvalue="Application.CheckSum" />
         <item itemvalue="Application.Search" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.Sorting" />
       </list>
     </recent_temporary>
   </component>
@@ -193,45 +196,45 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601539518433" />
-    <state width="1398" height="255" key="GridCell.Tab.0.bottom" timestamp="1603846900864">
+    <state width="1398" height="339" key="GridCell.Tab.0.bottom" timestamp="1604272426566">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603846900864" />
+    <state width="1398" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604272426566" />
     <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1602311841025" />
-    <state width="1398" height="255" key="GridCell.Tab.0.center" timestamp="1603846900861">
+    <state width="1398" height="339" key="GridCell.Tab.0.center" timestamp="1604272426564">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603846900861" />
+    <state width="1398" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604272426564" />
     <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1602311841024" />
-    <state width="1398" height="255" key="GridCell.Tab.0.left" timestamp="1603846900860">
+    <state width="1398" height="339" key="GridCell.Tab.0.left" timestamp="1604272426564">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603846900860" />
+    <state width="1398" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604272426564" />
     <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1602311841023" />
-    <state width="1398" height="255" key="GridCell.Tab.0.right" timestamp="1603846900862">
+    <state width="1398" height="339" key="GridCell.Tab.0.right" timestamp="1604272426565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603846900862" />
+    <state width="1398" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604272426565" />
     <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1602311841024" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1601563656440">
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1604154059696">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601563656440" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604154059696" />
     <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601192249063" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1601563656439">
+    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1604154059694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601563656439" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604154059694" />
     <state width="1398" height="324" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1601192249061" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1601563656439">
+    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1604154059694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601563656439" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604154059694" />
     <state width="1398" height="324" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1601192249060" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1601563656440">
+    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1604154059695">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601563656440" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604154059695" />
     <state width="1398" height="324" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1601192249062" />
     <state x="417" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603588044434">
       <screen x="0" y="0" width="1440" height="900" />

@@ -1,5 +1,7 @@
 package educative.sorting_and_searching;
 
+import java.util.HashMap;
+
 import static educative.sorting_and_searching.Search.binarySearchdynamic;
 
 class CheckSum {
@@ -17,11 +19,30 @@ class CheckSum {
         return result; // return the elements in the array whose sum is equal to the value passed as parameter
     }
 
-    public static void main(String args[]) {
+    public static int[] findSum2(int[] arr, int n) {
+        int [] result = new int[2];
+        HashMap<Integer, Boolean>diffMap = new HashMap<>();
 
-        int n = 81;
+        for (int i = 0; i< arr.length; i++){
+            diffMap.put(n-arr[i], true);
+        }
+        for (int i = 0; i<arr.length; i++){
+            if (diffMap.containsKey(arr[i])){
+                result[0] = arr[i];
+                result[1] = n - arr[i];
+                return result;
+            }
+        }
+
+
+        return result;
+    }
+
+        public static void main(String args[]) {
+
+        int n = 7;
         int[] arr1 = {1,21,3,14,5,60,7,6};
-        int[] arr2 = findSum(arr1, n);
+        int[] arr2 = findSum2(arr1, n);
         int num1 = arr2[0];
         int num2 = arr2[1];
 
