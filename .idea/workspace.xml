@@ -20,12 +20,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SearchRotatedArraySlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/SearchingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/CheckIfDoubleExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DuplicateZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/FirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/JumpGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MultiplyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ParitySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ValidMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalOccurrencesOFKSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ArraysExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BuyAndSellStockTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/CanReachEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/DutchFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/IncrementPrecisionInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/PrecisionMultiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/CheckSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/CheckSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/CheckSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/CheckSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/SearchArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/SearchArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/SearchingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/SearchArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +96,35 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchArray">
-    <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.CheckSum" />
+  <component name="RunManager" selected="Application.PerfectSquares">
+    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.AddBinary" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="elements_of_programming_interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DutchFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.DutchFlag" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="elements_of_programming_interviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.Median" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.Merge" />
+    <configuration name="PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.PerfectSquares" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="educative.sorting_and_searching.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,52 +149,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.QuickSort" />
+    <configuration name="TotalOccurrencesOFKSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalOccurrencesOFKSortedArray" />
       <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="educative.sorting_and_searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.Search" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="educative.sorting_and_searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="educative.sorting_and_searching.SearchArray" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="educative.sorting_and_searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchArray" />
-        <item itemvalue="Application.CheckSum" />
-        <item itemvalue="Application.Search" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.PerfectSquares" />
+        <item itemvalue="Application.TotalOccurrencesOFKSortedArray" />
+        <item itemvalue="Application.AddBinary" />
+        <item itemvalue="Application.DutchFlag" />
+        <item itemvalue="Application.Median" />
       </list>
     </recent_temporary>
   </component>
@@ -196,46 +218,54 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601539518433" />
-    <state width="1398" height="339" key="GridCell.Tab.0.bottom" timestamp="1604272426566">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="97" key="GridCell.Tab.0.bottom" timestamp="1606046563101">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604272426566" />
-    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1602311841025" />
-    <state width="1398" height="339" key="GridCell.Tab.0.center" timestamp="1604272426564">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637516" />
+    <state width="1398" height="97" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605914884595" />
+    <state width="1398" height="97" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1606046563101" />
+    <state width="1398" height="97" key="GridCell.Tab.0.center" timestamp="1606046563098">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604272426564" />
-    <state width="1398" height="260" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1602311841024" />
-    <state width="1398" height="339" key="GridCell.Tab.0.left" timestamp="1604272426564">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637512" />
+    <state width="1398" height="97" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605914884592" />
+    <state width="1398" height="97" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1606046563098" />
+    <state width="1398" height="97" key="GridCell.Tab.0.left" timestamp="1606046563097">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604272426564" />
-    <state width="1398" height="260" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1602311841023" />
-    <state width="1398" height="339" key="GridCell.Tab.0.right" timestamp="1604272426565">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637508" />
+    <state width="1398" height="97" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605914884590" />
+    <state width="1398" height="97" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1606046563097" />
+    <state width="1398" height="97" key="GridCell.Tab.0.right" timestamp="1606046563099">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604272426565" />
-    <state width="1398" height="260" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1602311841024" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1604154059696">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637514" />
+    <state width="1398" height="97" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605914884594" />
+    <state width="1398" height="97" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1606046563099" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1605761815617">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164755" />
     <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604154059696" />
-    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601192249063" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1604154059694">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1605761815617" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1605761815616">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164752" />
     <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604154059694" />
-    <state width="1398" height="324" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1601192249061" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1604154059694">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1605761815616" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1605761815615">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164750" />
     <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604154059694" />
-    <state width="1398" height="324" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1601192249060" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1604154059695">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1605761815615" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1605761815617">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164753" />
     <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604154059695" />
-    <state width="1398" height="324" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1601192249062" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1605761815617" />
     <state x="417" y="349" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603588044434">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

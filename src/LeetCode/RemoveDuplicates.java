@@ -19,4 +19,17 @@ class RemoveDuplicates {
         }
         return j+1;
     }
+
+    public int removeDuplicatesSimpler(int[] nums){
+        int writerPointer = 1;
+
+        for (int readerPointer = 1; readerPointer < nums.length; readerPointer++){
+
+            if (nums[readerPointer] != nums[readerPointer - 1]){
+                nums[writerPointer] = nums[readerPointer];
+                writerPointer++;
+            }
+        }
+        return writerPointer;
+    }
 }

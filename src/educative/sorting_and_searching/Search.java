@@ -16,7 +16,7 @@ class Search {
         int mid;
         while (start <= end) {
             System.out.println(start + " " + end);
-            mid = (start + end) / 2;
+            mid = start + (end - start) / 2;
             if (s > arr[mid]) {
                 start = mid + 1;
             } else if (s < arr[mid]) {
