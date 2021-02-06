@@ -1,5 +1,7 @@
 package LeetCode;
 
+import java.util.Arrays;
+
 public class ParitySort {
 
     public int[] paritySort2(int[] A) {
