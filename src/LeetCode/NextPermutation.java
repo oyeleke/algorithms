@@ -33,9 +33,19 @@ public class NextPermutation {
         }
     }
 
-    public void reverseArray(int start, int end, int [] A){
+    public void
+    reverseArray(int start, int end, int [] A){
         int mid = ((end - start)+ 1)/2;
         for(int i = 0; i< mid; i++){
+            swap(start++, end--, A);
+        }
+    }
+
+    public void reverseArray(int [] A){
+        int start = 0;
+        int end = A.length;
+        int mid = A.length/2;
+        for (int i = 0; i< mid; i++){
             swap(start++, end--, A);
         }
     }
