@@ -1,7 +1,7 @@
 package LeetCode;
 
 public class LeetListCode {
-    public class ListNode {
+    public static class ListNode {
         int val;
         ListNode next;
         ListNode() {}
@@ -28,4 +28,6 @@ public class LeetListCode {
         current.next = p1 != null ? p1 : p2;
         return dummyHead;
     }
+
+    
 }

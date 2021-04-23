@@ -20,25 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/FindDisappearedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/FlipAndInvertImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/HeightChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ThirdMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Transpose2dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MergeTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/PascalTriangleSingleRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MergeInBetweenList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/PalidromicList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/PartitionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/LargestRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/MonotonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/MoveElementToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/SmallestDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/SpiralTraverese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/ValidateSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/CircularList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/CyclicRightShiftLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/OddMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/TestOverLappingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/TestOverLappingListWithCycles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ParitySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ParitySort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PerfectSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PerfectSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/KDiffPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/KDiffPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/NextPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseSublist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseSublist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +50,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -81,48 +83,9 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PascalTriangleSingleRow">
-    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.AddBinary" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PascalTriangleSingleRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.PascalTriangleSingleRow" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.PascalsTriangle" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.PerfectSquares" />
+  <component name="RunManager" selected="Application.ValidateSubSequence">
+    <configuration name="OddMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.OddMerge" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -134,20 +97,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TotalOccurrencesOFKSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalOccurrencesOFKSortedArray" />
+    <configuration name="PalidromicList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.PalidromicList" />
       <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.ReverseLinkedList" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoerxpertss.TwoSum" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoerxpertss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoerxpertss.ValidateSubSequence" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoerxpertss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PascalTriangleSingleRow" />
-        <item itemvalue="Application.PascalsTriangle" />
-        <item itemvalue="Application.PerfectSquares" />
-        <item itemvalue="Application.TotalOccurrencesOFKSortedArray" />
-        <item itemvalue="Application.AddBinary" />
+        <item itemvalue="Application.ValidateSubSequence" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.PalidromicList" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.OddMerge" />
       </list>
     </recent_temporary>
   </component>
@@ -203,55 +211,41 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1614287338193" />
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1614264877842">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state x="474" y="351" width="496" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615677010568">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637516" />
-    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614168843420" />
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1614264877842" />
-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1614264877842">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state x="474" y="351" width="496" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1615677010568" />
+    <state width="1398" height="349" key="GridCell.Tab.0.bottom" timestamp="1618207933153">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637512" />
-    <state width="1398" height="270" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614168843418" />
-    <state width="1398" height="238" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1614264877842" />
-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1614264877841">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615679403494" />
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1615806962634" />
+    <state width="1398" height="349" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1618207933153" />
+    <state width="1398" height="349" key="GridCell.Tab.0.center" timestamp="1618207933152">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637508" />
-    <state width="1398" height="270" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614168843417" />
-    <state width="1398" height="238" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1614264877841" />
-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1614264877842">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615679403492" />
+    <state width="1398" height="394" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1615806962632" />
+    <state width="1398" height="349" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1618207933152" />
+    <state width="1398" height="349" key="GridCell.Tab.0.left" timestamp="1618207933151">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605913637514" />
-    <state width="1398" height="270" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614168843419" />
-    <state width="1398" height="238" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1614264877842" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1605761815617">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615679403492" />
+    <state width="1398" height="394" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1615806962631" />
+    <state width="1398" height="349" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1618207933151" />
+    <state width="1398" height="349" key="GridCell.Tab.0.right" timestamp="1618207933152">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164755" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1605761815617" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1605761815616">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615679403493" />
+    <state width="1398" height="394" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1615806962633" />
+    <state width="1398" height="349" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1618207933152" />
+    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup" timestamp="1618748802817">
+      <screen x="-482" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164752" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1605761815616" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1605761815615">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164750" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1605761815615" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1605761815617">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900/-322.-1080.1920.1080@0.0.1440.900" timestamp="1605757164753" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1605761815617" />
-    <state x="385" y="192" width="670" height="628" key="search.everywhere.popup" timestamp="1614262880454">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
+    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1618748802817" />
     <state x="385" y="182" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1612610661481" />
     <state x="385" y="192" width="670" height="628" key="search.everywhere.popup/0.23.1440.835@0.23.1440.835" timestamp="1614262880454" />
+    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup/0.23.1440.877/-482.-1417.2560.1417@-482.-1417.2560.1417" timestamp="1618748790191" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
