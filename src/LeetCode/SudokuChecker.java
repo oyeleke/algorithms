@@ -1,6 +1,6 @@
 package LeetCode;
 
-public class SudokuChecker {
+public class  SudokuChecker {
 
     public boolean isValidSudoku(char[][] board) {
 

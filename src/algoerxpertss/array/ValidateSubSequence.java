@@ -1,4 +1,4 @@
-package algoerxpertss;
+package algoerxpertss.array;
 
 import java.util.*;
 

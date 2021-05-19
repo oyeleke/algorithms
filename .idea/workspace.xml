@@ -20,27 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MergeInBetweenList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/PalidromicList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/PartitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/LargestRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/MonotonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/MoveElementToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/SmallestDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/SpiralTraverese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/ValidateSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/CircularList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/CyclicRightShiftLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/OddMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/TestOverLappingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/TestOverLappingListWithCycles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ConvertToBaseMinus2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ExcelSheetColumnTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/FindAndReplaceInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/PhoneMnemonics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/array/MinRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/FindLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/KthNodeFromENd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/LRUCacheExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/MergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/ShiftLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/linked_list/SumOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ConvertBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/InterConvertStringInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReplaceAndRemoveE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/TestPalindromicity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseSublist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseSublist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/ValidateSubSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/SudokuChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/SudokuChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/LargestRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/LargestRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/M_FourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/M_FourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/M_ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/M_ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/MinRewards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/MonotonicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/MonotonicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/MoveElementToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/MoveElementToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/SmallestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/SmallestDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/SpiralTraverese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/SpiralTraverese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/ValidateSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/array/ValidateSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/MergeTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/MergeTwoSortedArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +99,13 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidateSubSequence">
-    <configuration name="OddMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.OddMerge" />
+  <component name="RunManager" selected="Application.PhoneMnemonics">
+    <configuration name="ConvertBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.ConvertBase" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="elements_of_programming_interviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalidromicList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.PalidromicList" />
+    <configuration name="InterConvertStringInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.InterConvertStringInteger" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="elements_of_programming_interviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.ReverseLinkedList" />
+    <configuration name="PhoneMnemonics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.PhoneMnemonics" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +140,11 @@
       </method>
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoerxpertss.TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="algoerxpertss.array.TwoSum" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoerxpertss.*" />
+          <option name="PATTERN" value="algoerxpertss.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +153,11 @@
       </method>
     </configuration>
     <configuration name="ValidateSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoerxpertss.ValidateSubSequence" />
+      <option name="MAIN_CLASS_NAME" value="algoerxpertss.array.ValidateSubSequence" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoerxpertss.*" />
+          <option name="PATTERN" value="algoerxpertss.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneMnemonics" />
+        <item itemvalue="Application.ConvertBase" />
+        <item itemvalue="Application.InterConvertStringInteger" />
         <item itemvalue="Application.ValidateSubSequence" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.PalidromicList" />
-        <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.OddMerge" />
       </list>
     </recent_temporary>
   </component>
@@ -215,37 +231,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="351" width="496" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1615677010568" />
-    <state width="1398" height="349" key="GridCell.Tab.0.bottom" timestamp="1618207933153">
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1620088136942">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615679403494" />
+    <state width="2518" height="667" key="GridCell.Tab.0.bottom/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1619957289700" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620048256001" />
     <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1615806962634" />
-    <state width="1398" height="349" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1618207933153" />
-    <state width="1398" height="349" key="GridCell.Tab.0.center" timestamp="1618207933152">
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1620088136942" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1620088136941">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615679403492" />
+    <state width="2518" height="667" key="GridCell.Tab.0.center/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1619957289698" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620048256000" />
     <state width="1398" height="394" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1615806962632" />
-    <state width="1398" height="349" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1618207933152" />
-    <state width="1398" height="349" key="GridCell.Tab.0.left" timestamp="1618207933151">
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1620088136941" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1620088136940">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615679403492" />
+    <state width="2518" height="667" key="GridCell.Tab.0.left/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1619957289698" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620048255999" />
     <state width="1398" height="394" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1615806962631" />
-    <state width="1398" height="349" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1618207933151" />
-    <state width="1398" height="349" key="GridCell.Tab.0.right" timestamp="1618207933152">
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1620088136940" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1620088136941">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615679403493" />
+    <state width="2518" height="667" key="GridCell.Tab.0.right/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1619957289699" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620048256001" />
     <state width="1398" height="394" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1615806962633" />
-    <state width="1398" height="349" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1618207933152" />
-    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup" timestamp="1618748802817">
-      <screen x="-482" y="-1440" width="2560" height="1440" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1620088136941" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup" timestamp="1620166098509">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1618748802817" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900/-482.-1440.2560.1440@0.0.1440.900" timestamp="1620166098509" />
     <state x="385" y="182" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1612610661481" />
     <state x="385" y="192" width="670" height="628" key="search.everywhere.popup/0.23.1440.835@0.23.1440.835" timestamp="1614262880454" />
-    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup/0.23.1440.877/-482.-1417.2560.1417@-482.-1417.2560.1417" timestamp="1618748790191" />
+    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup/0.23.1440.877/-482.-1417.2560.1417@-482.-1417.2560.1417" timestamp="1619600195261" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,4 @@
-package algoerxpertss;
+package algoerxpertss.array;
 
 public class MonotonicArray {
     public static boolean isMonotonic(int[] array) {
