@@ -5,7 +5,7 @@ import java.util.*;
 public class PhoneMnemonics {
 
 
-    public  List<String> letterCombinations(String digits) {
+    public static List<String> letterCombinations(String digits) {
         List<String> result = new ArrayList<>();
         HashMap<Character, String> mapDigitToSting = new HashMap<>();
         mapDigitToSting.put('2', "abc");
@@ -21,7 +21,7 @@ public class PhoneMnemonics {
         return result;
     }
 
-    public  void combineStringPosibilities(int digitCount, StringBuilder parser, List<String> result, String digitString, HashMap<Character, String> map){
+    public static void combineStringPosibilities(int digitCount, StringBuilder parser, List<String> result, String digitString, HashMap<Character, String> map){
         if (digitCount == digitString.length()){
             result.add(parser.toString());
             return;
@@ -37,6 +37,6 @@ public class PhoneMnemonics {
     }
 
     public static void main(String [] args){
-        //System.out.println(letterCombinations("43"));
+        System.out.println(letterCombinations("23"));
     }
 }
