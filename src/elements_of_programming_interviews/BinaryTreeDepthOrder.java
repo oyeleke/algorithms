@@ -8,7 +8,13 @@ import java.util.Queue;
 public class BinaryTreeDepthOrder {
     public static class BinaryTreeNode<T> {
         public T data;
+        public int size;
         public BinaryTreeNode<T> left, right;
+    }
+
+    public static class BinaryTree<T> {
+        public T data;
+        public BinaryTree<T> left, right, parent;
     }
 
 

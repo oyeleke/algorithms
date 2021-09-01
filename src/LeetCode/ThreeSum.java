@@ -8,10 +8,11 @@ import java.util.List;
 public class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new LinkedList<>();
-        Arrays.sort(nums);
         if(nums.length <= 2){
             return result;
         }
+        Arrays.sort(nums);
+
 
         for (int i = 0; i < nums.length - 2; i++ ){
             if (i == 0 || (i > 0 && nums[i] != nums[i-1])){

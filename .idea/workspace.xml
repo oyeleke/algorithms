@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,33 +23,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BinaryTreeOrderLevelTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DecompressRLElist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MyCircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ValidateIPAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/LargestRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/MinMaxStackConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/ShortenPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/SortStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/SunsetViews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreeDepthOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/CircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ComputeBuildingWithSunSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/IsWellFormed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/QueueWithMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/QueueWithStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/RPNExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/RabinKarpSubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ShortestEquivalentPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/StackE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/WellFormedStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Randomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/SudokuValidatorRe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/binarytree/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/binarytree/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/binarytree/PathSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/binarytree/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/CopyRandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/FirstUniqueStringChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/FreshFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/KClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/MostCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/ReorderLogFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/ReverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/TrapWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/CheckIfBTisSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/ComputeTheSuccessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/HasPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/HeightBalancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/InOrderTraversalWithoutRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/KthNodeInOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/LCAWithParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/PreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/SumRootToLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/TraseversingABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseSublist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseSublist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseSublist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/ReverseSublist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/StrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/StrStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/BinaryTreeOrderLevelTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/BinaryTreeOrderLevelTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetListCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/StrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreeDepthOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreeDepthOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +106,13 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestRectangle">
-    <configuration name="IsWellFormed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.IsWellFormed" />
+  <component name="RunManager" selected="Kotlin.TestKt">
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.ComparatorTest" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.*" />
+          <option name="PATTERN" value="amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoerxpertss.stacks.LargestRectangle" />
+    <configuration name="PathSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.binarytree.PathSum3" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoerxpertss.stacks.*" />
+          <option name="PATTERN" value="LeetCode.binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RabinKarpSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.RabinKarpSubStr" />
+    <configuration name="PreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.binary_trees.PreorderTraversal" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.*" />
+          <option name="PATTERN" value="elements_of_programming_interviews.binary_trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Randomizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Randomizer" />
+    <configuration name="StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.StringToInteger" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,26 +159,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSublist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.ReverseSublist" />
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestRectangle" />
-        <item itemvalue="Application.IsWellFormed" />
-        <item itemvalue="Application.Randomizer" />
-        <item itemvalue="Application.ReverseSublist" />
-        <item itemvalue="Application.RabinKarpSubStr" />
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Application.StringToInteger" />
+        <item itemvalue="Application.ComparatorTest" />
+        <item itemvalue="Application.PreorderTraversal" />
+        <item itemvalue="Application.PathSum3" />
       </list>
     </recent_temporary>
   </component>
@@ -213,48 +230,45 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1624677095540">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1630350747513">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1624677095540" />
-    <state width="1398" height="241" key="GridCell.Tab.0.bottom" timestamp="1628150125009">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1630350747513" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom" timestamp="1630414469268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="2518" height="417" key="GridCell.Tab.0.bottom/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1621498709150" />
-    <state width="1398" height="241" key="GridCell.Tab.0.bottom/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1628150125009" />
-    <state width="1398" height="241" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1625037845109" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587566" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1630414469268" />
     <state width="1398" height="241" key="GridCell.Tab.0.bottom/0.23.1440.877/-562.-1417.2560.1417@0.23.1440.877" timestamp="1626935060519" />
     <state width="1398" height="241" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1625039424160" />
-    <state width="1398" height="241" key="GridCell.Tab.0.center" timestamp="1628150125007">
+    <state width="1398" height="210" key="GridCell.Tab.0.center" timestamp="1630414469266">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="2518" height="417" key="GridCell.Tab.0.center/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1621498709148" />
-    <state width="1398" height="241" key="GridCell.Tab.0.center/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1628150125007" />
-    <state width="1398" height="241" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1625037845106" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587564" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1630414469266" />
     <state width="1398" height="241" key="GridCell.Tab.0.center/0.23.1440.877/-562.-1417.2560.1417@0.23.1440.877" timestamp="1626935060479" />
     <state width="1398" height="241" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1625039424159" />
-    <state width="1398" height="241" key="GridCell.Tab.0.left" timestamp="1628150125007">
+    <state width="1398" height="210" key="GridCell.Tab.0.left" timestamp="1630414469265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="2518" height="417" key="GridCell.Tab.0.left/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1621498709146" />
-    <state width="1398" height="241" key="GridCell.Tab.0.left/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1628150125007" />
-    <state width="1398" height="241" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1625037845102" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587563" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1630414469265" />
     <state width="1398" height="241" key="GridCell.Tab.0.left/0.23.1440.877/-562.-1417.2560.1417@0.23.1440.877" timestamp="1626935060433" />
     <state width="1398" height="241" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1625039424159" />
-    <state width="1398" height="241" key="GridCell.Tab.0.right" timestamp="1628150125008">
+    <state width="1398" height="210" key="GridCell.Tab.0.right" timestamp="1630414469267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="2518" height="417" key="GridCell.Tab.0.right/0.0.1440.900/-482.-1440.2560.1440@-482.-1440.2560.1440" timestamp="1621498709149" />
-    <state width="1398" height="241" key="GridCell.Tab.0.right/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1628150125008" />
-    <state width="1398" height="241" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1625037845108" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587565" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1630414469267" />
     <state width="1398" height="241" key="GridCell.Tab.0.right/0.23.1440.877/-562.-1417.2560.1417@0.23.1440.877" timestamp="1626935060484" />
     <state width="1398" height="241" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1625039424160" />
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup" timestamp="1624078931061">
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup" timestamp="1630478863665">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900/-482.-1440.2560.1440@0.0.1440.900" timestamp="1620166098509" />
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1624078931061" />
-    <state x="202" y="-1130" width="1192" height="1066" key="search.everywhere.popup/0.23.1440.877/-482.-1417.2560.1417@-482.-1417.2560.1417" timestamp="1619600195261" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630276586923" />
+    <state x="38" y="-1149" width="1193" height="1085" key="search.everywhere.popup/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1630476536139" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1630424134558" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1630478863665" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -288,6 +302,11 @@
           <url>file://$PROJECT_DIR$/src/educative/sorting_and_searching/QuickSort.java</url>
           <line>24</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/LowestCommonAncestor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
