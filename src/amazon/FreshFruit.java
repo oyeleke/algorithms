@@ -1,5 +1,7 @@
 package amazon;
 
+import java.util.HashMap;
+
 public class FreshFruit {
 
     private static int check(String[][] codeList,String[] shoppingcart){
@@ -7,6 +9,9 @@ public class FreshFruit {
         // check corner cases
         if(codeList == null || codeList.length == 0) return 1;
         if(shoppingcart == null || shoppingcart.length == 0) return 0;
+
+        HashMap<String, Integer>map = new HashMap<>();
+        //map.containsKey();
 
         int i =0,j=0;
 

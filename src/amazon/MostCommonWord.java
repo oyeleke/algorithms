@@ -1,10 +1,7 @@
 package amazon;
 
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class MostCommonWord {
 
@@ -136,6 +133,22 @@ public class MostCommonWord {
                 }
             }
             bufferedwords = new StringBuilder();
+        }
+        return ans;
+    }
+
+    public static int sockMerchant(int n, List<Integer> ar) {
+        // Write your code here
+        int ans = 0;
+        HashMap<Integer, Integer> map = new HashMap();
+
+        for(int i = 0; i<n; i++){
+            int count = map.getOrDefault(ar.get(i), 0)+1;
+            map.put(ar.get(i), count);
+        }
+
+        for(int key : map.keySet()){
+            ans = ans + (map.get(key)/2);
         }
         return ans;
     }

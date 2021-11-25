@@ -55,7 +55,7 @@ public class LargestRectangle {
         for (int i =0; i< buildings.size(); i++){
             while (!stack.isEmpty() && buildings.get(stack.peek()) >= buildings.get(i)){
                 int height = buildings.get(stack.pop());
-                int width = stack.isEmpty() ? i : (i - stack.peek()) - 1;
+                int width =  (stack.isEmpty() ? i : (i - stack.peek()) - 1);
                 System.out.println("Height: "+height + " Width: "+ width);
                 max = Math.max(max, (width * height));
             }
@@ -66,7 +66,7 @@ public class LargestRectangle {
     }
 
         public static void main(String[] args) {
-        int [] array = new int[] {1, 3, 3, 2, 4, 1, 5, 3, 2};
+        int [] array = new int[] {1, 2, 3, 4, 5};
         ArrayList<Integer> list2 = new ArrayList<>();
         for(int text:array) {
             list2.add(text);

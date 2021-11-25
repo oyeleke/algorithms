@@ -10,6 +10,15 @@ public class BinaryTreeDepthOrder {
         public T data;
         public int size;
         public BinaryTreeNode<T> left, right;
+
+        public BinaryTreeNode(T data, BinaryTreeNode<T> left, BinaryTreeNode<T> right) {
+            this.data = data;
+            this.left = left;
+            this.right = right;
+        }
+
+        public BinaryTreeNode() {
+        }
     }
 
     public static class BinaryTree<T> {
