@@ -23,35 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/CountingDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/SpinWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/ValidParens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/WhoLikesIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/ReconstructBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/hashmaps/CountTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/hashmaps/FrequencyQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/hashmaps/SherlocksAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/stacks/BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/stacks/LargestRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/stacks/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReverseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/SumToPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/MarkAndToys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Testk.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LeetListCode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LeetListCode$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/LargestRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/LargestRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/FreshFruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/FreshFruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoerxpertss/stacks/LargestRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoerxpertss/stacks/LargestRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon/FreshFruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/FreshFruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon/MostCommonWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/MostCommonWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreeDepthOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/BinaryTreeDepthOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ComparatorTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/SumRootToLeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/SumRootToLeaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/ComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/SumRootToLeaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/SumRootToLeaf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -99,7 +83,7 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.SumRootToLeaf">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.sorting.BubbleSort" />
       <module name="algorithms" />
@@ -113,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.SumOfDigits" />
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.ComparatorTest" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.ValidParens" />
+    <configuration name="SumRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.binary_trees.SumRootToLeaf" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="elements_of_programming_interviews.binary_trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,33 +123,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpinWords.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="codewars" />
-      <option name="MAIN_CLASS_NAME" value="codewars.SpinWords" />
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseSentence" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseSentence.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseSentence" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParens.sampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codewars" />
-      <option name="MAIN_CLASS_NAME" value="codewars.ValidParens" />
-      <option name="METHOD_NAME" value="sampleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumRootToLeaf" />
+        <item itemvalue="JUnit.ReverseSentence.test" />
+        <item itemvalue="JUnit.ReverseSentence" />
+        <item itemvalue="Application.ComparatorTest" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="JUnit.SpinWords.test" />
-        <item itemvalue="JUnit.ValidParens.sampleTest" />
-        <item itemvalue="Application.ValidParens" />
-        <item itemvalue="Application.SumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -233,59 +216,55 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="28" key="#Project_Structure/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637275596733" />
-    <state x="302" y="-1163" key="#com.intellij.ide.util.MemberChooser" timestamp="1635893955857">
-      <screen x="-646" y="-1440" width="2560" height="1440" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1641605190829">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="302" y="-1163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635893955857" />
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1633990469840" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1637802178225">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1641605190829" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1641607801110">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="2518" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299744" />
     <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980467" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587566" />
     <state width="2518" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732341" />
     <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733837" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637802178225" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1641603371836" />
     <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944098" />
     <state width="2518" height="210" key="GridCell.Tab.0.bottom/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834560" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1637304314729" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1637802178223">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1641607801110" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1641607801108">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="2518" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299742" />
     <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980465" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587564" />
     <state width="2518" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732339" />
     <state width="1398" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733827" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1637802178223" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1641603371825" />
     <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944094" />
     <state width="2518" height="210" key="GridCell.Tab.0.center/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834546" />
-    <state width="1398" height="297" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1637304314880" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1637802178222">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1641607801108" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1641607801107">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="2518" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299741" />
     <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980464" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587563" />
     <state width="2518" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732338" />
     <state width="1398" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733826" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1637802178222" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1641603371820" />
     <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944086" />
     <state width="2518" height="210" key="GridCell.Tab.0.left/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834545" />
-    <state width="1398" height="297" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1637304314879" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1637802178224">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1641607801107" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1641607801109">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="2518" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299743" />
     <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980466" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630251587565" />
     <state width="2518" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732340" />
     <state width="1398" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733833" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1637802178224" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1641603371831" />
     <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944096" />
     <state width="2518" height="210" key="GridCell.Tab.0.right/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834553" />
-    <state width="1398" height="297" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1637304314881" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1641607801109" />
     <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1637304314914">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -327,13 +306,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="88" y="72" width="1289" height="755" key="new project wizard/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042730054" />
-    <state x="38" y="-1149" width="1193" height="1085" key="search.everywhere.popup" timestamp="1635893909027">
-      <screen x="-646" y="-1440" width="2560" height="1440" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup" timestamp="1637839931000">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900/-562.-1440.2560.1440@0.0.1440.900" timestamp="1630276586923" />
     <state x="38" y="-1149" width="1193" height="1085" key="search.everywhere.popup/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635893909027" />
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1631141193808" />
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1631012763991" />
+    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1637839931000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
