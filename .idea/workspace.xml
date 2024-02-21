@@ -23,19 +23,296 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c2a9cb-6793-452e-9de0-e1e85b40bcfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backtobackswe/SumToPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/ComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/MarkAndToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/sorting/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/Testk.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/searching/FirstOccurrenceOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/searching/IntegerSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/searching/IntersectionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/searching/MinimumItemInSortedRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/searching/Search2DSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/trees/InorderTraversalWNR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/trees/InsertionAndDeletionIntoABST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/trees/MinHeightBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtobackswe/trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/searching/Search2dSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ComparatorTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/BigIntegerFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/BigIntegerFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/EquiLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/EquiLeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/FindtheOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/FindtheOddNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/AddBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/BinaryTreeOrderLevelTraversal$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/BinaryTreeOrderLevelTraversal$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/BinaryTreeOrderLevelTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/BinaryTreeOrderLevelTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/CheckIfDoubleExists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/CheckIfDoubleExists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ConvertToBaseMinus2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ConvertToBaseMinus2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/DecompressRLElist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/DecompressRLElist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/DuplicateZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/DuplicateZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ExcelSheetColumnNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ExcelSheetColumnNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ExcelSheetColumnTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ExcelSheetColumnTitle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FindAndReplaceInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FindAndReplaceInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FindDisappearedNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FindDisappearedNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FirstAndLast$SearchType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FirstAndLast$SearchType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FirstAndLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FirstAndLast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FlipAndInvertImage$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FlipAndInvertImage$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FlipAndInvertImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FlipAndInvertImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/FourSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/HeightChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/HeightChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/JumpGame2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/JumpGame2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/KDiffPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/KDiffPairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LeetListCode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LeetListCode$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LeetListCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LeetListCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MaxProductOfThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MaxProductOfThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MergeInBetweenList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MergeInBetweenList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MergeSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MinimumDifferenceBetweenLargestAndSmallestValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MinimumDifferenceBetweenLargestAndSmallestValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MinimumSizeSubarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MinimumSizeSubarraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MoveZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MultiplyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MultiplyString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyCircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyCircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyLinkedList$DoubleLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyLinkedList$DoubleLinkedListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/NextPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/NextPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PalidromicList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PalidromicList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ParitySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ParitySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PartitionList$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PartitionList$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PartitionList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PartitionList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PerfectSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PerfectSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PhoneMnemonics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/PhoneMnemonics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ReverseSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ReverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/Rotate2dArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/Rotate2dArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SearchRotatedArraySlow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SearchRotatedArraySlow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SingleElementSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SingleElementSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SpiralMatrix2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SpiralMatrix2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SpiralOrdering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SpiralOrdering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SquaresOfSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SquaresOfSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/StrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/StrStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SudokuChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SudokuChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SudokuValidatorRe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/SudokuValidatorRe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ThirdMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ThirdMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/Transpose2dArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/Transpose2dArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ValidMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ValidMountainArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ValidateIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/ValidateIPAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/BalancedBinaryTree$BalanceWithHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/BalancedBinaryTree$BalanceWithHeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/BalancedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/BalancedBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/PathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/PathSum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/PathSum3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/LeetCode/binarytree/SymmetricTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/MaxCounters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/MaxCounters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/MaxDoubleSliceTut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/MaxDoubleSliceTut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/QuickFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/QuickFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/QuickUnion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/QuickUnion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/ResultT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/ResultT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/RotateLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/RotateLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/SherlockAndTheValidStringKtKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/SherlockAndTheValidStringKtKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/TestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/TestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/TotalOccurrencesOFKSortedArray$SearchType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/TotalOccurrencesOFKSortedArray$SearchType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/TotalOccurrencesOFKSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/TotalOccurrencesOFKSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/LargestRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/LargestRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/M_FourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/M_FourSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/M_ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/M_ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/MinRewards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/MinRewards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/MonotonicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/MonotonicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/MoveElementToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/MoveElementToEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/SmallestDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/SmallestDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/SpiralTraverese.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/SpiralTraverese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/ValidateSubSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/array/ValidateSubSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/FindLoop$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/FindLoop$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/FindLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/FindLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/KthNodeFromENd$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/KthNodeFromENd$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/KthNodeFromENd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/KthNodeFromENd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$LRUResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$LRUResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LRUCacheExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LinkedList$DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LinkedList$DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/MergeLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/MergeLinkedList$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/MergeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/MergeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/RemoveDuplicates$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/RemoveDuplicates$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ReverseLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ReverseLinkedList$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ShiftLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ShiftLinkedList$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ShiftLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/ShiftLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/SumOfLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/SumOfLinkedList$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/SumOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/linked_list/SumOfLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/LargestRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/LargestRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction$MaxWithCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction$MaxWithCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction$MinMaxStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction$MinMaxStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction$MinWithCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction$MinWithCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/MinMaxStackConstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/NextGreaterElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/NextGreaterElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/ShortenPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/ShortenPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/SortStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/SortStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/SunsetViews.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/algoerxpertss/stacks/SunsetViews.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/CopyRandomList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/CopyRandomList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/FirstUniqueStringChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/FirstUniqueStringChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/FreshFruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/FreshFruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/IntegerToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/KClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/KClosest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/LongestPalindrome$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/LongestPalindrome$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/MaxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/MaxArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/MostCommonWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ReorderLogFiles$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/ReorderLogFiles$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ReorderLogFiles$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/ReorderLogFiles$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ReorderLogFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/ReorderLogFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/ReverseKGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/ReverseKGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/StringToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/StringToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/amazon/TrapWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/amazon/TrapWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codewars/CountingDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codewars/CountingDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codewars/SpinWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codewars/SpinWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codewars/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codewars/SumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codewars/ValidParens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codewars/ValidParens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codewars/WhoLikesIt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codewars/WhoLikesIt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/BinaryGapKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/BinaryGapKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/BinaryGapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/BinaryGapKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/Block2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/Block2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/CodilityMaxDoubleSlice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/CodilityMaxDoubleSlice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/CountDivKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/CountDivKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/CountFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/CountFactors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/CyclicRotationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/CyclicRotationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/DistinctKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/DistinctKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/DominatorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/DominatorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/EquileaderKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/EquileaderKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/Fish$Fish1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/Fish$Fish1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/Fish2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/Fish2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/FishKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/FishKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/FrogJumpKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/FrogJumpKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/FrogRiverOneCorrectSlowKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/FrogRiverOneCorrectSlowKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/GenomicRangeQuery2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/GenomicRangeQuery2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/GenomicRangeQueryKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/GenomicRangeQueryKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MaxCountersSemiGoodKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MaxCountersSemiGoodKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MaxProductOfThreeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MaxProductOfThreeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MaxProfitKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MaxProfitKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MaximalSliceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MaximalSliceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MinAvg2SliceDoubleForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MinAvg2SliceDoubleForLoopKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MinAvg2SliceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MinAvg2SliceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MissingIntegerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MissingIntegerKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/MushroomPickerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/MushroomPickerKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/NumberOfDiscInterceptionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/NumberOfDiscInterceptionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/PassingCarsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/PassingCarsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/PermMissingElemKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/PermMissingElemKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/PermMissingElemKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/PermMissingElemKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/ReversingCoinsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/ReversingCoinsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/StoneWall$Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/StoneWall$Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/StoneWall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/StoneWall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/StoneWallKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/StoneWallKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquilibriumSlowKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquilibriumSlowKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquilibriumSlowKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquilibriumSlowKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquillibrumFastKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquillibrumFastKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquillibrumFastKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/TapeEquillibrumFastKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/codility/TriangleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/codility/TriangleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/dynamic_programming/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/dynamic_programming/KnapsackProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/dynamic_programming/Memoize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/dynamic_programming/Memoize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Anagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/CheckSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/CheckSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Median.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Median.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/SearchArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/SearchArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/educative/sorting_and_searching/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/AddBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/AllValidIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/AllValidIPAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/Array2DSpiral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/Array2DSpiral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ArraysExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ArraysExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder$BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BinaryTreeDepthOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BuyAndSellStockTwice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/BuyAndSellStockTwice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CanReachEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CanReachEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CircularList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CircularList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ComputeBuildingWithSunSet$BuildingWithHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ComputeBuildingWithSunSet$BuildingWithHeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ComputeBuildingWithSunSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ComputeBuildingWithSunSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ConvertBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ConvertBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CyclicRightShiftLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/CyclicRightShiftLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/DutchFlag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/DutchFlag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/IncrementPrecisionInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/IncrementPrecisionInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/InterConvertStringInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/InterConvertStringInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/IsWellFormed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/IsWellFormed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/LookAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/LookAndSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/MergeTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/MergeTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/MergeTwoSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/MergeTwoSortedLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/OddMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/OddMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/PascalTriangleSingleRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/PascalTriangleSingleRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/PascalsTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/PascalsTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/PrecisionMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/PrecisionMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/QueueWithMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/QueueWithMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/QueueWithStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/QueueWithStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RLE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RLE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RPNExpressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RPNExpressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RabinKarpSubStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RabinKarpSubStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RemoveDuplicatesFromSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RemoveDuplicatesFromSortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReplaceAndRemoveE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReplaceAndRemoveE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseSublist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ReverseSublist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RomanToDecimal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RomanToDecimal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RomanToDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RomanToDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/SampleData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/SampleData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ShortestEquivalentPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/ShortestEquivalentPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/SinuString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/SinuString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/StackE$MaxWithCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/StackE$MaxWithCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/StackE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/StackE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/TestOverLappingList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/TestOverLappingList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/TestOverLappingListWithCycles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/TestOverLappingListWithCycles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/TestPalindromicity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/TestPalindromicity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/WellFormedStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/WellFormedStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/CheckIfBTisSymmetric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/CheckIfBTisSymmetric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/ComputeTheSuccessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/ComputeTheSuccessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/HasPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/HasPathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/HeightBalancedTree$BalanceStatusWithWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/HeightBalancedTree$BalanceStatusWithWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/HeightBalancedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/HeightBalancedTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/InOrderTraversalWithoutRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/InOrderTraversalWithoutRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/KthNodeInOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/KthNodeInOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/LCAWithParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/LCAWithParent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/LowestCommonAncestor$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/LowestCommonAncestor$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/LowestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/LowestCommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/PreorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/ReconstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/ReconstructBinaryTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/SumRootToLeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/SumRootToLeaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/ComparatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/SumRootToLeaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements_of_programming_interviews/binary_trees/SumRootToLeaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/TraseversingABinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/TraseversingABinaryTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/TraseversingABinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/elements_of_programming_interviews/binary_trees/TraseversingABinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/hashmaps/CountTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/hashmaps/CountTriplets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/hashmaps/FrequencyQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/hashmaps/FrequencyQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/hashmaps/SherlocksAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/hashmaps/SherlocksAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/MarkAndToys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/MarkAndToys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/sorting/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/stacks/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/stacks/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/stacks/LargestRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/stacks/LargestRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/hackerrank/stacks/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/hackerrank/stacks/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/interview/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/interview/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/interview/Testk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/interview/Testk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/practice/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/practice/Interview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/practice/Randomizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/practice/Randomizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backtobackswe/SumToPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backtobackswe/trees/SumToPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/sorting_and_searching/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/sorting_and_searching/Helper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +331,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1gYznUucrUKl8Y8ZpA7aW7vYytg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -65,6 +353,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -83,13 +373,13 @@
       <recent name="$PROJECT_DIR$/src/codility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumRootToLeaf">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.sorting.BubbleSort" />
+  <component name="RunManager" selected="Application.Search2DSortedMatrix">
+    <configuration name="FirstOccurrenceOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtobackswe.searching.FirstOccurrenceOfK" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.sorting.*" />
+          <option name="PATTERN" value="backtobackswe.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amazon.ComparatorTest" />
+    <configuration name="IntegerSquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtobackswe.searching.IntegerSquareRoot" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="amazon.*" />
+          <option name="PATTERN" value="backtobackswe.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elements_of_programming_interviews.binary_trees.SumRootToLeaf" />
+    <configuration name="IntersectionOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtobackswe.searching.IntersectionOfTwoSortedArrays" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elements_of_programming_interviews.binary_trees.*" />
+          <option name="PATTERN" value="backtobackswe.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,44 +413,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumItemInSortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtobackswe.searching.MinimumItemInSortedRotatedArray" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="backtobackswe.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseSentence" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentence.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Search2DSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtobackswe.searching.Search2DSortedMatrix" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="backtobackswe.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LeetCode" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseSentence" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumRootToLeaf" />
-        <item itemvalue="JUnit.ReverseSentence.test" />
-        <item itemvalue="JUnit.ReverseSentence" />
-        <item itemvalue="Application.ComparatorTest" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Search2DSortedMatrix" />
+        <item itemvalue="Application.IntegerSquareRoot" />
+        <item itemvalue="Application.FirstOccurrenceOfK" />
+        <item itemvalue="Application.MinimumItemInSortedRotatedArray" />
+        <item itemvalue="Application.IntersectionOfTwoSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -209,108 +494,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="208" y="28" key="#Project_Structure" timestamp="1637275596733">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="208" y="28" key="#Project_Structure/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637275596733" />
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1641605190829">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="302" y="-1163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635893955857" />
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1641605190829" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1641607801110">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="2518" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299744" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980467" />
-    <state width="2518" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732341" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733837" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1641603371836" />
-    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944098" />
-    <state width="2518" height="210" key="GridCell.Tab.0.bottom/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834560" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1641607801110" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1641607801108">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="2518" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299742" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980465" />
-    <state width="2518" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732339" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733827" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1641603371825" />
-    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944094" />
-    <state width="2518" height="210" key="GridCell.Tab.0.center/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834546" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1641607801108" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1641607801107">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="2518" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299741" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980464" />
-    <state width="2518" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732338" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733826" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1641603371820" />
-    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944086" />
-    <state width="2518" height="210" key="GridCell.Tab.0.left/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834545" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1641607801107" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1641607801109">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state width="2518" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-512.-1440.2560.1440@-512.-1440.2560.1440" timestamp="1636852299743" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276980466" />
-    <state width="2518" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635470732340" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042733833" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1641603371831" />
-    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.877/-646.-1417.2560.1417@0.23.1440.877" timestamp="1633610944096" />
-    <state width="2518" height="210" key="GridCell.Tab.0.right/0.25.1440.875/-646.-1415.2560.1415@-646.-1415.2560.1415" timestamp="1635636834553" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1641607801109" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1637304314914">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276342280" />
-    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637304314914" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1637304314912">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276342274" />
-    <state width="1398" height="297" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1637304314912" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1637304314911">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276342269" />
-    <state width="1398" height="297" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1637304314911" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1637304314913">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637276342276" />
-    <state width="1398" height="297" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1637304314913" />
-    <state x="513" y="159" key="RollbackChangesDialog" timestamp="1633931970028">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="513" y="159" key="RollbackChangesDialog/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1633931970028" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1634042700784">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042700784" />
-    <state x="433" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1637275556180">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="433" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900/-512.-1440.2560.1440@0.0.1440.900" timestamp="1637275556180" />
-    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1637801923302">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1633931862511" />
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1637801923302" />
-    <state x="88" y="72" width="1289" height="755" key="new project wizard" timestamp="1634042730054">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="88" y="72" width="1289" height="755" key="new project wizard/0.0.1440.900/-646.-1440.2560.1440@0.0.1440.900" timestamp="1634042730054" />
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup" timestamp="1637839931000">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="38" y="-1149" width="1193" height="1085" key="search.everywhere.popup/0.0.1440.900/-646.-1440.2560.1440@-646.-1440.2560.1440" timestamp="1635893909027" />
-    <state x="385" y="182" width="671" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1637839931000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

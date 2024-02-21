@@ -1,15 +1,11 @@
-package backtobackswe;
-
-import elements_of_programming_interviews.binary_trees.TraseversingABinaryTree;
+package backtobackswe.trees;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static elements_of_programming_interviews.binary_trees.TraseversingABinaryTree.*;
-
 public class SumToPath {
     public boolean hasPathSum(TreeNode node, int targetSum) {
-        List<Boolean> list = new ArrayList();
+        List<Boolean> list = new ArrayList<Boolean>();
         checkPath(node, targetSum, list, 0);
         return !list.isEmpty();
     }

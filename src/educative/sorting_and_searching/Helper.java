@@ -1,6 +1,5 @@
 package educative.sorting_and_searching;
 
-import org.jetbrains.annotations.NotNull;
 
 public class Helper {
 
@@ -16,7 +15,7 @@ public class Helper {
         return mInd;
     }
 
-    static void swap(int @NotNull [] array, int i, int j) {
+    static void swap(int [] array, int i, int j) {
         int temp = array[i];
         array[i] = array[j];
         array[j] = temp;
