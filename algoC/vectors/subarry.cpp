@@ -58,7 +58,8 @@ pair<int, int> subArraySort(vector<int> arr)
 
 int main()
 {
-    vector<int> arr = {1, 2, 3, 4, 5, 8, 6, 7, 9, 10, 11};
+    vector<int> arr = {1, 2, 3, 4, 5, 8, 8, 6, 7,  9, 10, 11};
+
     auto p = subArraySort(arr);
     cout << p.first << " and " << p.second << endl;
     return 0;
